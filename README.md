@@ -42,7 +42,6 @@
 - **Учебная практика Java/Spring Boot**: Filmorate, ShareIt, Catsgram и Smart Home Tech.
   - Filmorate и ShareIt: REST API, валидация, JUnit, MockMvc, SQL, PostgreSQL/H2.
   - Smart Home Tech: multi-module архитектура, Spring Cloud, Kafka, gRPC/Protobuf, OpenAPI и Docker Compose.
-  - Отдельные учебные проекты пока готовлю к публикации.
 
 ## Навыки и инструменты
 
