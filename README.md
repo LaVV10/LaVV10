@@ -1,16 +1,54 @@
-## Hi there 👋
+# QA Engineer | Manual & API Testing | Java Automation
 
-<!--
-**LaVV10/LaVV10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Тестирую Web UI и REST API, подготавливаю тестовую документацию и баг-репорты, провожу регрессионные проверки. Развиваюсь в автоматизации на Java, JUnit 5 и Playwright.
 
-Here are some ideas to get you started:
+## QA-проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ToonyGamy — Creator Platform
+
+Веб-платформа для создания и публикации комиксов.
+
+- Провёл ручное функциональное, smoke-, регрессионное и исследовательское тестирование Web UI кабинета автора.
+- Проверял создание и редактирование контента, публикацию, авторизацию, роли, локализацию и AI-функции.
+- Подготовил Postman-коллекцию из 22 REST API-запросов: авторизация, CRUD, валидации, права доступа, главы, страницы и публикация.
+- Оформил более 20 баг-репортов; написал API- и UI-автотесты на Playwright (TypeScript и Java + JUnit 5).
+
+[Подробнее о проекте →](https://github.com/LaVV10/qa-portfolio/tree/main/projects/toonygamy)
+
+### Paddit — комьюнити-платформа для падела
+
+Веб-сервис с профилями, клубами, тренерами, брендами, событиями, бронированием и форумом.
+
+- Провёл 6 сессий ручного UI-тестирования: профиль, клубы, тренеры, бренды, турниры, бронирование, форум, поиск, подписки и админка.
+- Проверял роли, тарифные ограничения, модерацию, SEO- и UX-сценарии; выполнял регрессионное тестирование.
+- Оформил 28 баг-репортов; повторной проверкой подтвердил 14 исправлений.
+- Использовал Chrome DevTools для анализа DOM, сетевых запросов, HTTP-статусов и UI-состояний.
+
+[Подробнее о проекте →](https://github.com/LaVV10/qa-portfolio/tree/main/projects/paddit)
+
+### VPN-сервис
+
+- Проводил ручное функциональное тестирование доступных пользовательских сценариев.
+- Проверял основные функции сервиса и обработку ошибок.
+- Оформлял результаты проверок и найденные дефекты.
+
+[Подробнее о проекте →](https://github.com/LaVV10/qa-portfolio/tree/main/projects/vpn)
+
+## Учебные Java-проекты
+
+Учебные проекты помогают мне лучше понимать устройство backend-сервисов, API, баз данных и типичные точки, где возникают дефекты.
+
+- **[Java Kanban](https://github.com/LaVV10/java-kanban)** — менеджер задач: модели задач, история просмотра, приоритизация, файловое хранение и HTTP API.
+- **[First Project](https://github.com/LaVV10/first-project)** — набор Java/Spring Boot проектов: Filmorate, ShareIt, Catsgram и Smart Home Tech.
+  - Filmorate и ShareIt: REST API, валидация, JUnit, MockMvc, SQL, PostgreSQL/H2.
+  - Smart Home Tech: multi-module архитектура, Spring Cloud, Kafka, gRPC/Protobuf, OpenAPI и Docker Compose.
+
+## Навыки и инструменты
+
+`Manual QA` · `Web UI` · `REST API` · `HTTP` · `JSON` · `Postman` · `Chrome DevTools` · `Java` · `JUnit 5` · `Playwright` · `TypeScript` · `SQL` · `PostgreSQL` · `Git` · `Maven`
+
+## Портфолио
+
+Полное описание QA-проектов и безопасно опубликованные результаты тестирования — в репозитории [qa-portfolio](https://github.com/LaVV10/qa-portfolio).
+
+> В портфолио не публикуются тестовые учётные данные, токены, внутренние URL, приватные данные и подробности незакрытых критичных дефектов.
