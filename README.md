@@ -36,12 +36,13 @@
 
 ## Учебные Java-проекты
 
-Учебные проекты помогают мне лучше понимать устройство backend-сервисов, API, баз данных и типичные точки, где возникают дефекты.
+Учебная практика помогает мне лучше понимать устройство backend-сервисов, API, баз данных и типичные точки, где возникают дефекты.
 
 - **[Java Kanban](https://github.com/LaVV10/java-kanban)** — менеджер задач: модели задач, история просмотра, приоритизация, файловое хранение и HTTP API.
-- **[First Project](https://github.com/LaVV10/first-project)** — набор Java/Spring Boot проектов: Filmorate, ShareIt, Catsgram и Smart Home Tech.
+- **Учебная практика Java/Spring Boot**: Filmorate, ShareIt, Catsgram и Smart Home Tech.
   - Filmorate и ShareIt: REST API, валидация, JUnit, MockMvc, SQL, PostgreSQL/H2.
   - Smart Home Tech: multi-module архитектура, Spring Cloud, Kafka, gRPC/Protobuf, OpenAPI и Docker Compose.
+  - Отдельные учебные проекты пока готовлю к публикации.
 
 ## Навыки и инструменты
 
